@@ -1,0 +1,7 @@
+streamlit>=1.50
+yfinance>=0.2.54
+pandas
+plotly
+deep-translator
+ddgs
+reportlab
